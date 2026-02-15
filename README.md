@@ -289,7 +289,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BibinVR15&theme=tokyonight&no-frame=true&margin-w=4&column=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=BibinVR15&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
