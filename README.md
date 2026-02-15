@@ -285,17 +285,7 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=BibinVR15&row=1&column=6)
-
-</div>
-
----
-
-## 🎯 Current Missions
+##  Current Missions
 
 ```javascript
 const currentGoals = {
