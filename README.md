@@ -285,11 +285,11 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BibinVR15&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=BibinVR15&row=1&column=6)
 
 </div>
 
