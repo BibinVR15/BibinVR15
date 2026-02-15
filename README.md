@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to BIBIN V R's Digital Universe! 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Just+roaming+around!+%F0%9F%A4%92;Building+Cool+Stuff+%F0%9F%9A%80;AI+%7C+ML+%7C+Web+Dev+%E2%9C%A8;Supercalifragilisticexpialidocious!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Just+roaming+around!+%F0%9F%A4%92;Building+Cool+Stuff+%F0%9F%9A%80;AI+%7C+ML+%7C+Web+Dev+%E2%9C%A8;Innovation+Enthusiast!)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,7 +54,7 @@ me.say_hi()
 
 ---
 
-## 🚀 My Supercalifragilisticexpialidocious Projects
+## 🚀 My Projects
 
 <div align="center">
 
@@ -271,19 +271,15 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats Extravaganza
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BibinVR15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=BibinVR15&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibinVR15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/BibinVR15)
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=BibinVR15&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa5a&currStreakLabel=70a5fd)](https://github.com/BibinVR15)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibinVR15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BibinVR15&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B" alt="Contribution Graph" width="100%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinVR15&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)](https://github.com/BibinVR15)
 
 </div>
 
@@ -293,7 +289,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=BibinVR15&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=BibinVR15&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)](https://github.com/BibinVR15)
 
 </div>
 
@@ -315,19 +311,18 @@ const currentGoals = {
 
 ---
 
-## 🎨 Fun Facts & Easter Eggs
+## 🎨 Fun Facts
 
 <div align="center">
 
 ```ascii
-    🎪 SUPERCALIFRAGILISTICEXPIALIDOCIOUS 🎪
-    
     ╔════════════════════════════════════════╗
     ║  💡 Innovation is my middle name       ║
     ║  🎯 Code is my superpower              ║
     ║  ☕ Powered by coffee and curiosity    ║
     ║  🚀 Building the future, one repo      ║
     ║     at a time!                         ║
+    ║  🌟 Always learning, always growing!   ║
     ╚════════════════════════════════════════╝
 ```
 
@@ -364,7 +359,7 @@ while(alive):
 
 ---
 
-<sub>Made with 💖, ☕, and a touch of ✨ supercalifragilisticexpialidocious magic!</sub>
+<sub>Made with 💖, ☕, and a whole lot of ✨ dedication!</sub>
 
 ![Visitor Count](https://profile-counter.glitch.me/BibinVR15/count.svg)
 
