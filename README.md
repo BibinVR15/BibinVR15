@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to BIBIN V R's Digital Universe! 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Just+roaming+around!+%F0%9F%A4%92;Building+Cool+Stuff+%F0%9F%9A%80;AI+%7C+ML+%7C+Web+Dev+%E2%9C%A8;Supercalifragilisticexpialidocious!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Just+roaming+around!+%F0%9F%A4%92;Building+Cool+Stuff+%F0%9F%9A%80;AI+%7C+ML+%7C+Web+Dev+%E2%9C%A8;)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,7 +54,7 @@ me.say_hi()
 
 ---
 
-## 🚀 My Supercalifragilisticexpialidocious Projects
+## 🚀 My Projects
 
 <div align="center">
 
