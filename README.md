@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to BIBIN V R's Digital Universe! 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Just+roaming+around!+%F0%9F%A4%92;Building+Cool+Stuff+%F0%9F%9A%80;AI+%7C+ML+%7C+Web+Dev+%E2%9C%A8;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Just+roaming+around!+%F0%9F%A4%92;Building+Cool+Stuff+%F0%9F%9A%80;AI+%7C+ML+%7C+Web+Dev+%E2%9C%A8;Supercalifragilisticexpialidocious!)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,7 +54,7 @@ me.say_hi()
 
 ---
 
-## 🚀 My Projects
+## 🚀 My Supercalifragilisticexpialidocious Projects
 
 <div align="center">
 
@@ -276,14 +276,14 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BibinVR15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BibinVR15&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=BibinVR15&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibinVR15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BibinVR15&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B" alt="Contribution Graph" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BibinVR15&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -376,6 +376,6 @@ while(alive):
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70)
 
 </div>
